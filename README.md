@@ -3,4 +3,4 @@
 # Gorilla
 Gorilla Freamwork for Computer Vision
 
-If you're lost in the computer vision jungle, use Gorilla
+If you're lost in the computer vision jungle, use Gorilla!
