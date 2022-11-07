@@ -5,7 +5,7 @@ import time
 
 class Benchmark:
     """
-    Benchmark Class ...
+    Benchmark Class for model performance evaluation.
     """
 
     def __init__(self) -> None:
