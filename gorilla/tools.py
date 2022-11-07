@@ -18,7 +18,9 @@ class Tools:
     def optmize_model(self):
         ...
     
-
+    def convert_to_trt(self):
+        ...
+    
 
 
 class Drawner:
